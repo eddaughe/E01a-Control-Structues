@@ -12,10 +12,9 @@ It gave me a prompt to type something else in and added my user information.
 I think it may have gathered data from me.
 
 Open main2.py. Before running it, describe how this is different than main1.py. 
-oakaysdfjkhlds
 
 It just added the words Print and Color to the end.
-I did
+
 What do you think the color = input() will do? 
 
 I'm not sure if it will vary much from the last.
@@ -30,17 +29,19 @@ I think this one is telling me that the correct input is red.
 
 What is happening on lines 11–14? 
 
-It is telling me to type in red.
+It is telling me to type in the word "red"
 
 Why are lines 12 and 14 indented? 
 
-
+I'm guessing its an organizational strategy.
 
 Run the program and answer the question. What happens if you don’t capitalize Red? 
 
+It is incorrect if I do not capitalize the "r."
+
 What does this tell you about "color"?
 
-
+It tells me that the word needs to be exact because of the way the code is written.
 
 Open main4.py. Before running it, describe how this is different than main2.py. 
 

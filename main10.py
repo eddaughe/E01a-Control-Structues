@@ -6,8 +6,8 @@ utils.check_version((3,7))          # make sure we are running at least Python 3
 utils.clear()                       # clear the screen
 
 
-print('Greetings!')
-colors = ['red','orange','yellow','green','blue','violet','purple']
+print('Greetings!') #just print that runs
+colors = ['red','orange','yellow','green','blue','violet','purple'] #list colors to guess
 play_again = ''
 best_count = sys.maxsize            # the biggest number
 while (play_again != 'n' and play_again != 'no'):
