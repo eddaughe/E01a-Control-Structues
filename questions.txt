@@ -12,7 +12,7 @@ It gave me a prompt to type something else in and added my user information.
 I think it may have gathered data from me.
 
 Open main2.py. Before running it, describe how this is different than main1.py. 
-
+oak
 It just added the words Print and Color to the end.
 
 What do you think the color = input() will do? 
