@@ -45,6 +45,8 @@ It tells me that the word needs to be exact because of the way the code is writt
 
 Open main4.py. Before running it, describe how this is different than main2.py. 
 
+It allows me to keep the "r" lowercase and still be correct.
+
 What problem is this trying to solve? 
 
 Run the program and answer the question. What happens if you use some other capitalization scheme (i.e., “RED” or “reD“)?
