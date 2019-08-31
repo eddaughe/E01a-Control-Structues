@@ -49,55 +49,84 @@ It allows me to keep the "r" lowercase and still be correct.
 
 What problem is this trying to solve? 
 
+This problem is trying to get the right input, which in this case is "red" or "Red."
+
 Run the program and answer the question. What happens if you use some other capitalization scheme (i.e., “RED” or “reD“)?
 
-
+The others do not work.
 
 Open main5.py. What do you expect line 11 to do? 
 
+I think it will allow all of the spellings of red to work.
+
 What problem is it trying to solve? 
+
+It is trying to get any input of "red."
 
 Run the program and answer the question. What happens if you add spaces before or after the word (i.e., “  RED  “ or “ red”)?
 
-
+If spaces are used it is incorrect.
 
 Open main6.py. How is line 11 different than main5.py? 
 
+It now adds the word strip.
+
 What would you guess .strip() is doing? 
+
+I believe spaces will be okay now.
 
 Run the program and answer the question. Is there another way of writing “red” that will break this logic?
 
-
+There is none that I found.
 
 Open main7.py. Before running this program, how do you expect this to be different than main6.py? 
 
+It's the same as the previous, except for it now adds getting a response from answering "pink"
+
 What is the purpose of line 11? 
+
+It allows any color to be spelled with spaces or with capitals.
 
 Run the program and answer the question.
 
-
+I did answer it.
 
 Open main8.py. What is the purpose of line 11? 
 
+To ask the question that requires a response.
+
 Why are lines 12–19 indented? 
+
+I have to assume its an organizational tactic.
 
 Run the program. What would happen if line 12 were moved before line 11 (and no longer indented)? 
 
+It would not run properly at all.
+
 Make that change and run the program again. To end any Python program, you can type ctrl-c.
 
-
+It didn't run right.
 
 Open main9.py. What is happening on line 12? 
 
+It will now allow me to keep going instead of making me run the program again.
+
 What is the purpose of “count”? 
+
+It is to count the number of tries it takes me to guess the color.
 
 What is happening on line 22? 
 
+It will tell how many times that we tried.
+
 Run the program.
 
+Done.
 
 *Extra credit:* open main10.py. Add a comment to each line describing what it is doing (a comment follows a pound sign [#]). 
 
 Commit your changes and push them back to the repository. 
 
 Did you do the extra credit?
+
+I did not because I am still confused on a few.
